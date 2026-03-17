@@ -7,19 +7,19 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   <main>
+   <main class="container">
     <header>
         <h1>Monitor Agro</h1>
         <p>Equilíbrio entre produção e meio ambiente!</p>
     </header>
 
-    <section>
+    <section class="config-fazenda">
         <input type="number" name="producao" id="producao" placeholder="Hectares de produção">
         <input type="number" name="mata" id="mata" placeholder="Hectares de mata">
         <button id="btnAtualizar">Atualizar painel</button>
     </section>
 
-    <section>
+    <section class="dashboard">
         <div id="cardProducao">
             <h3>Produção agrícola</h3>
             <div>🚜</div>
@@ -34,7 +34,7 @@
 
     </section>
 
-    <section id="mensagemStatus">
+    <section id="mensagemStatus" class="status-box">
         Aguardando dados para análise ...
     </section>
 
