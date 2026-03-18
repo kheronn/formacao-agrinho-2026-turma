@@ -13,21 +13,22 @@ O dashboard permite a entrada de dados reais da propriedade (hectares de produç
 
 O projeto foi desenvolvido aplicando conceitos de **Mobile-First** e layouts flexíveis (**Flexbox**), garantindo que a interface se adapte a diferentes tamanhos de tela, um critério essencial de usabilidade previsto no regulamento.
 
+
 ### Visualização em Desktop
 
-Em telas maiores, o dashboard organiza os cards de indicadores lado a lado, otimizando o espaço horizontal para uma leitura rápida dos dados.
+Em telas maiores, o dashboard organiza os indicadores horizontalmente para otimizar a leitura dos dados.
 
-| Estado: Aguardando Dados | Estado: Sustentável (Sucesso) |
-| :---: | :---: |
-| ![Demonstração do Dashboard em visualização desktop, mostrando os cards de produção e preservação lado a lado com cores neutras.](https://via.placeholder.com/800x450.png?text=Dashboard+Desktop+-+Aguardando) | ![Demonstração do Dashboard em visualização desktop, com o card de preservação e a barra de status na cor verde, indicando conformidade ambiental.]([https://via.placeholder.com/800x450.png?text=Dashboard+Desktop+-+Sustentavel](https://github.com/kheronn/formacao-agrinho-2026-turma/blob/main/desktop.webp)) |
-
-### Visualização em Dispositivos Móveis
+<div align="center">
+  <img src="https://github.com/kheronn/formacao-agrinho-2026-turma/blob/main/desktop.webp" width="55%" alt="Dashboard Desktop Sustentável">
+</div>
 
 Em telas menores (celulares), o layout se ajusta automaticamente. Os elementos são empilhados verticalmente, mantendo a legibilidade e a facilidade de interação com os campos de entrada e o botão de ação.
 
-| Visualização Mobile (Empilhada) |
+### Visualização Mobile (Empilhada) 
 | :---: |
-| ![Demonstração do Dashboard em visualização mobile, mostrando a interface adaptada para telas estreitas, com os elementos empilhados verticalmente. ](https://github.com/kheronn/formacao-agrinho-2026-turma/blob/main/note.png) |
+<div align="center">
+  <img src="https://github.com/kheronn/formacao-agrinho-2026-turma/blob/main/mobile.png" width="20%" alt="Dashboard Mobile">
+</div>
 
 ## 🚀 Tecnologias e Fundamentos
 
@@ -54,7 +55,8 @@ Seguindo as boas práticas de desenvolvimento e organização sugeridas na forma
 
 ## ⚖️ Regulamento e Critérios
 
-Este projeto foi orientado por professor regente e atende aos seguintes critérios da rubrica oficial do Concurso Agrinho:
+Este projeto foi orientado por professor regente e atende aos seguintes critérios da rubrica oficial do Concurso Agrinho em 2024 e 2025.
+No momento da formação o edital de 2026 ainda não tinha sido publicado
 
 1.  **Complexidade**: Uso correto de tags de organização e propriedades avançadas de CSS (Flexbox, Estados).
 2.  **Usabilidade**: Navegação intuitiva, design responsivo e ausência de erros de código.
