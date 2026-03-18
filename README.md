@@ -66,6 +66,6 @@ No momento da formação o edital de 2026 ainda não tinha sido publicado
 
 ### 👨‍🏫 Orientação Docente
 
-Este repositório serve como base base pedagógica para a formação de professores de programação na Educação Básica, visando o engajamento de estudantes dos Anos Finais do Ensino Fundamental e Ensino Médio nas trilhas de tecnologia.
+Este repositório serve como base base pedagógica para a formação de professores de programação na Educação Básica, visando o engajamento de estudantes do Ensino Médio nos componentes de Educação Digital das 1ªs séries, e trilhas de programação das 2ªs e 3ªs.
 
 ---
