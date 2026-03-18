@@ -32,7 +32,7 @@ Em telas menores (celulares), o layout se ajusta automaticamente. Os elementos s
 
 ## 🚀 Tecnologias e Fundamentos
 
-O projeto utilizao as linguagens fundamentais da Web de forma estruturada:
+O projeto é composto  por linguagens fundamentais da Web de forma estruturada:
 
 * **HTML5**: Estruturação semântica (`header`, `section`, `div`) e organização de dados de entrada (`input type="number"`) e saída.
 * **CSS3**: Estilização focada em usabilidade, utilizando **Flexbox** para o layout responsivo e **Variáveis CSS** (`:root`) para a identidade visual (Verde).
@@ -66,6 +66,6 @@ No momento da formação o edital de 2026 ainda não tinha sido publicado
 
 ### 👨‍🏫 Orientação Docente
 
-Este repositório serve como base base pedagógica para a formação de professores de programação na Educação Básica, visando o engajamento de estudantes do Ensino Médio nos componentes de Educação Digital das 1ªs séries, e trilhas de programação das 2ªs e 3ªs.
+Este repositório serve como base base pedagógica para a formação de professores de programação na Educação Básica, visando o engajamento de estudantes do Ensino Médio nos componentes de Educação Digital das 1ªs séries e trilhas de programação das 2ªs e 3ªs.
 
 ---
